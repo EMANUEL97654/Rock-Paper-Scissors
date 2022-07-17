@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+body{
+    margin: 0;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width:150px;
+}
+
+
+#gameDiv{
+    font-family: 'Roboto Slab', serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 46%, rgba(252,176,69,1) 100%);
+    text-align: center;
+}
+
+#playerText{
+    color:#a70af0;
+}
+#computerText{
+    color:#f0e80a;
+}
+
+
