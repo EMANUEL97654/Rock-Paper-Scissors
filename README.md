@@ -1,2 +1,4 @@
-# Rock-Paper-Scissors
-Just enjoy this ROCK,PAPER,SCISSORS game made with HTML,CSS and JAVASCRIPT.
+# Piedra,papel o tijera
+Podras disfrutar de un juego tipico de la infancia creado utilizando HTML,CSS y JAVASCRIPT.
+
+## Desarrollado por Emanuel Gonzalez Gartland
